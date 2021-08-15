@@ -1,0 +1,25 @@
+{
+  "name": "multiplayer-drawing-game",
+  "version": "1.0.0",
+  "description": "multiplayer drawing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhadeepCh/Multiplayer-Drawing-Game.git"
+  },
+  "author": "Subhadeep Choudhuri, Vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhadeepCh/Multiplayer-Drawing-Game/issues"
+  },
+  "homepage": "https://github.com/subhadeepCh/Multiplayer-Drawing-Game#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
